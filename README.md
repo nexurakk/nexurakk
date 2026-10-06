@@ -1,16 +1,25 @@
-## Hi there 👋
+# Nexura
+### AI-Assisted Development | Business Automation | Agentic Systems
 
-<!--
-**nexurakk/nexurakk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Nexura develops web applications, workflow automation and agentic systems for practical business needs.
 
-Here are some ideas to get you started:
+This profile presents a general overview of internal company projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Selected projects
+
+- **Braznet Verify:** Customer verification and onboarding workflows with an administrative interface.
+- **Braznet Operations Platform:** Tools for customer workflows, service management and operational automation.
+- **Multi-Agent System:** Modular workflows for data collection, research, validation and coordinated execution.
+
+These are recent internal projects. Source code and implementation details are maintained in private repositories.
+
+## Development approach
+
+- Translating business requirements into application workflows
+- Building integrations with APIs and webhooks
+- Developing database-backed applications
+- Using AI coding tools for implementation, debugging and refactoring
+
+## Tools and technologies
+
+OpenAI Codex · Claude Code · Git/GitHub · PostgreSQL · Supabase · Cloudflare · AWS S3
